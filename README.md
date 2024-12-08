@@ -1,6 +1,8 @@
 # crystalmeth
 experiments with "crystal" language. As I faff with it I'll upload small programs here with some semblance of documentation. 
 
+The docs for the lang are on the site: https://crystal-lang.org/
+
 ## backconnect.cr  
 It is a reverse shell. 
 
